@@ -1,4 +1,5 @@
 #Mapa COVID-19 ☣️
+
 Este es un pequeño proyecto con fines didactos para tratar de llevar con la mayor precisión posible la informacion sobre el **COVID-19** de casos confirmados en tiempo real.
 
 ## Vista previa del proyecto:
